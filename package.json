@@ -1,0 +1,15 @@
+{
+  "name": "assumrole",
+  "version": "1.0.0",
+  "description": "A sample application on how to use aws stsAssumeRole for crossAccount access of services ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.279.1"
+  }
+}
